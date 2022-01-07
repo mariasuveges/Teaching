@@ -3,7 +3,7 @@ Teaching-related files.
 
 This project contains the files pertaining to the LSST summer school on statistics for astronomy PhD students. 
 
-Files: 
+### Files: 
 
 **Course Introduction to Statistics:**
 
